@@ -1,0 +1,1052 @@
+MANUAL INTERNO DE PROCEDIMENTOS
+LABORATÓRIO DE INFORMÁTICA ACADÊMICO
+INSTITUIÇÃO XYZ
+
+Versão: 1.0
+Documento: Manual Interno do Laboratório de Informática
+Aplicação: Uso acadêmico e administrativo
+Classificação: Uso interno e fictício para fins acadêmicos
+
+1. APRESENTAÇÃO
+
+O Laboratório de Informática Acadêmico da Instituição XYZ é um espaço destinado ao desenvolvimento de atividades acadêmicas, aulas práticas, trabalhos individuais e em grupo, pesquisas, projetos de extensão e demais atividades relacionadas ao ensino.
+
+Este manual estabelece as regras, procedimentos e informações internas relacionadas ao funcionamento do laboratório. Seu objetivo é padronizar a utilização dos equipamentos e do espaço físico, orientar os alunos e professores e estabelecer procedimentos para situações que necessitem de suporte técnico ou administrativo.
+
+As informações apresentadas neste documento são internas e específicas do Laboratório de Informática da Instituição XYZ. Em caso de dúvida, os usuários devem consultar este manual ou procurar o responsável pelo laboratório.
+
+O cumprimento das regras é responsabilidade de todos os usuários.
+
+2. HORÁRIO DE FUNCIONAMENTO
+
+O Laboratório de Informática funciona de segunda-feira a sexta-feira, das 7h às 22h.
+
+Aos sábados, o funcionamento ocorre das 8h às 12h.
+
+O laboratório permanece fechado aos domingos e feriados nacionais.
+
+O horário de funcionamento poderá ser alterado em períodos de manutenção programada, atividades institucionais ou situações emergenciais.
+
+A última entrada de usuários ocorre 15 minutos antes do horário previsto para o fechamento.
+
+Aos sábados, a última entrada ocorre às 11h45.
+
+Nenhum usuário poderá permanecer no laboratório após o encerramento do expediente, salvo quando houver autorização expressa do responsável pelo laboratório.
+
+Durante períodos de manutenção programada, determinados computadores ou todo o laboratório poderão permanecer indisponíveis.
+
+3. LOCALIZAÇÃO E IDENTIFICAÇÃO
+
+O Laboratório de Informática Acadêmico está localizado no Bloco B da Instituição XYZ, no segundo andar, sala B-204.
+
+O laboratório possui capacidade para 32 usuários simultâneos.
+
+As estações de trabalho são identificadas de LAB-01 a LAB-32.
+
+A identificação da estação está localizada na parte frontal da mesa e também em uma etiqueta na lateral do gabinete ou monitor.
+
+Para abertura de chamados técnicos, o usuário deve informar obrigatoriamente o código da estação sempre que souber qual equipamento apresenta o problema.
+
+Exemplo:
+
+LAB-01 corresponde à primeira estação do laboratório.
+
+LAB-16 corresponde à décima sexta estação.
+
+LAB-32 corresponde à trigésima segunda estação.
+
+A identificação correta da máquina facilita a localização do equipamento pela equipe de suporte.
+
+4. USUÁRIOS AUTORIZADOS
+
+Podem utilizar o laboratório:
+
+* alunos regularmente matriculados na Instituição XYZ;
+* professores da Instituição XYZ;
+* funcionários autorizados;
+* participantes de atividades acadêmicas previamente autorizadas;
+* convidados acompanhados por professor ou funcionário responsável.
+
+Alunos de outros cursos da Instituição XYZ podem utilizar o laboratório desde que estejam realizando atividade acadêmica compatível e exista disponibilidade de equipamentos.
+
+Visitantes externos não podem utilizar os computadores sem autorização prévia de um funcionário responsável.
+
+O usuário é responsável por sua própria utilização do laboratório e deve seguir todas as regras deste manual independentemente de estar utilizando o equipamento por conta própria ou durante uma aula.
+
+5. ACESSO AO LABORATÓRIO
+
+O acesso ao laboratório é permitido durante o horário regular de funcionamento.
+
+Durante aulas práticas, a prioridade de utilização pertence aos alunos matriculados na disciplina que possui a aula agendada.
+
+Quando o laboratório estiver reservado para uma aula, usuários externos à atividade devem liberar as estações conforme orientação do professor ou responsável.
+
+O acesso fora do horário normal depende de autorização do responsável pelo laboratório.
+
+Não é permitido utilizar a identificação ou credencial de outra pessoa para acessar os computadores.
+
+O usuário não deve permitir que terceiros utilizem sua conta institucional.
+
+Em caso de perda ou comprometimento de uma credencial, o usuário deve comunicar imediatamente o suporte da instituição.
+
+6. RESERVA DE COMPUTADORES
+
+As estações de trabalho podem ser reservadas para atividades acadêmicas individuais.
+
+A reserva deve ser realizada com antecedência mínima de 24 horas.
+
+Cada reserva possui duração máxima de 2 horas.
+
+Um mesmo usuário pode possuir no máximo duas reservas futuras simultaneamente.
+
+A reserva pode ser realizada para qualquer estação disponível.
+
+Reservas para atividades em grupo podem ser solicitadas quando houver necessidade acadêmica comprovada.
+
+A solicitação de reserva deve conter:
+
+* nome do solicitante;
+* matrícula;
+* curso;
+* data;
+* horário;
+* quantidade de computadores necessária;
+* finalidade da atividade.
+
+Reservas destinadas a aulas possuem prioridade sobre reservas individuais.
+
+O usuário que não comparecer até 15 minutos após o início da reserva poderá perder o direito de utilização da estação.
+
+Após esse período, a estação poderá ser disponibilizada para outro usuário.
+
+7. CANCELAMENTO E ALTERAÇÃO DE RESERVAS
+
+O cancelamento de uma reserva deve ser realizado com antecedência mínima de 2 horas.
+
+Alterações de data ou horário devem ser feitas como uma nova solicitação, sujeita à disponibilidade.
+
+Não é permitido transferir uma reserva para outra pessoa sem comunicar o responsável pelo laboratório.
+
+Reservas não utilizadas repetidamente poderão ser analisadas pela administração do laboratório.
+
+Quando uma reserva for cancelada, o horário volta a ficar disponível para outros usuários.
+
+Em caso de fechamento emergencial do laboratório, as reservas afetadas serão automaticamente canceladas e não serão consideradas como ausência do usuário.
+
+8. PRIORIDADE DE UTILIZAÇÃO
+
+A ordem de prioridade para utilização do laboratório é:
+
+1. aulas práticas previamente agendadas;
+2. avaliações acadêmicas;
+3. atividades acadêmicas institucionais;
+4. reservas individuais;
+5. utilização espontânea, conforme disponibilidade.
+
+A prioridade não significa que um usuário possa retirar outra pessoa de uma estação sem autorização.
+
+Em situações de conflito, o responsável pelo laboratório ou o professor responsável pela atividade deverá orientar os usuários.
+
+9. UTILIZAÇÃO DOS COMPUTADORES
+
+Os computadores do laboratório devem ser utilizados prioritariamente para atividades acadêmicas.
+
+São permitidas atividades como:
+
+* desenvolvimento de trabalhos;
+* programação;
+* pesquisas acadêmicas;
+* utilização de sistemas institucionais;
+* elaboração de apresentações;
+* edição de documentos;
+* atividades de disciplinas;
+* utilização de softwares acadêmicos autorizados.
+
+Não é permitido utilizar os computadores para atividades que comprometam a segurança ou o funcionamento da infraestrutura.
+
+Também não é permitido modificar configurações administrativas do sistema operacional.
+
+O usuário não deve alterar configurações de rede, políticas de segurança, serviços do sistema ou configurações destinadas à administração das máquinas.
+
+10. LOGIN E CONTAS DE USUÁRIO
+
+Cada usuário deve utilizar sua própria conta institucional quando o sistema solicitar autenticação.
+
+É proibido compartilhar senhas.
+
+O usuário deve sair da sua conta ao terminar a utilização do computador.
+
+Não é permitido salvar senhas pessoais no navegador de computadores compartilhados.
+
+O usuário deve evitar deixar contas de e-mail, redes sociais, sistemas acadêmicos ou outros serviços pessoais conectados após terminar sua atividade.
+
+Caso o usuário encontre uma conta de outra pessoa conectada, não deve acessar seus arquivos ou informações. Deve comunicar o ocorrido ao monitor ou suporte.
+
+11. ARMAZENAMENTO DE ARQUIVOS
+
+Os computadores do laboratório não devem ser utilizados como local permanente para armazenamento de arquivos pessoais.
+
+Arquivos necessários para atividades acadêmicas devem ser armazenados preferencialmente em serviços institucionais ou dispositivos próprios do usuário.
+
+Arquivos deixados na área de trabalho ou em pastas locais podem ser removidos durante procedimentos de manutenção.
+
+O laboratório não garante a preservação de arquivos armazenados localmente.
+
+Antes de encerrar uma atividade, o usuário deve verificar se seus arquivos importantes foram devidamente salvos em local apropriado.
+
+A equipe de suporte não é responsável pela recuperação de arquivos pessoais que tenham sido apagados durante procedimentos de manutenção.
+
+12. DISPOSITIVOS USB E DISPOSITIVOS EXTERNOS
+
+É permitido utilizar pendrives e outros dispositivos USB para atividades acadêmicas, desde que sejam utilizados de maneira segura.
+
+O usuário deve verificar seus dispositivos antes de conectá-los aos computadores.
+
+Não é permitido executar arquivos suspeitos ou programas desconhecidos.
+
+Caso o computador apresente comportamento incomum após a conexão de um dispositivo, o usuário deve desconectá-lo e comunicar o suporte.
+
+Não é permitido conectar equipamentos que possam interferir no funcionamento da rede ou dos computadores sem autorização.
+
+Dispositivos utilizados para atividades de aula podem ser autorizados pelo professor responsável.
+
+13. INSTALAÇÃO DE SOFTWARES
+
+Os usuários não possuem permissão para instalar programas diretamente nos computadores do laboratório.
+
+É proibida a instalação de:
+
+* jogos;
+* emuladores;
+* programas de mineração;
+* softwares piratas;
+* programas sem licença quando uma licença for necessária;
+* ferramentas destinadas a comprometer a segurança;
+* aplicativos que alterem configurações administrativas;
+* programas não relacionados à atividade acadêmica.
+
+Quando um software for necessário para uma disciplina ou projeto, o usuário deverá solicitar sua instalação ao suporte de TI.
+
+A solicitação deve conter:
+
+* nome do software;
+* versão desejada;
+* finalidade;
+* disciplina ou projeto relacionado;
+* nome do professor responsável.
+
+A equipe técnica avaliará a compatibilidade, segurança e disponibilidade de licença antes da instalação.
+
+A aprovação de uma solicitação não é automática.
+
+14. PRAZO PARA SOLICITAÇÃO DE SOFTWARE
+
+Solicitações de instalação de software devem ser realizadas com antecedência mínima de 3 dias úteis em relação à atividade acadêmica.
+
+Solicitações urgentes poderão ser analisadas, mas não existe garantia de instalação imediata.
+
+O suporte poderá solicitar informações adicionais ao aluno ou professor.
+
+Quando houver mais de uma versão compatível do programa, a equipe técnica poderá instalar a versão recomendada pela instituição.
+
+O usuário não deve tentar instalar manualmente uma versão diferente depois que a equipe técnica realizar a instalação.
+
+15. INTERNET E REDE
+
+A conexão à internet do laboratório é destinada a atividades acadêmicas e institucionais.
+
+São permitidos:
+
+* acesso a sites de pesquisa;
+* plataformas acadêmicas;
+* sistemas institucionais;
+* serviços de armazenamento utilizados para atividades acadêmicas;
+* ferramentas de desenvolvimento;
+* páginas relacionadas às disciplinas.
+
+O uso da internet não deve comprometer o desempenho da rede para os demais usuários.
+
+É proibido realizar atividades que provoquem tráfego excessivo ou deliberadamente prejudiquem a rede.
+
+Também é proibido tentar contornar bloqueios ou mecanismos de segurança da instituição.
+
+16. DOWNLOADS E STREAMING
+
+Downloads relacionados às atividades acadêmicas são permitidos.
+
+O usuário deve evitar downloads desnecessários de arquivos muito grandes durante períodos de utilização intensa do laboratório.
+
+Streaming de vídeo e áudio é permitido quando estiver relacionado a atividades acadêmicas.
+
+Durante aulas ou períodos de grande utilização, conteúdos de entretenimento devem ser evitados para não prejudicar o desempenho da rede.
+
+Não é permitido utilizar o laboratório para distribuição de arquivos protegidos por direitos autorais de maneira irregular.
+
+17. VPN E ALTERAÇÕES DE REDE
+
+O uso de VPN pessoal nos computadores do laboratório não é permitido sem autorização do suporte de TI.
+
+Os usuários não podem modificar manualmente configurações de IP, DNS, proxy ou outras configurações de rede.
+
+Não é permitido conectar roteadores, repetidores ou equipamentos destinados a criar redes paralelas.
+
+Problemas de conexão devem ser comunicados ao suporte.
+
+A tentativa de contornar mecanismos de segurança da rede pode resultar no bloqueio da estação e encaminhamento da ocorrência à administração responsável.
+
+18. REDES SOCIAIS E USO PESSOAL
+
+O acesso a redes sociais não relacionadas à atividade acadêmica deve ser limitado durante o uso do laboratório.
+
+O laboratório não é destinado à utilização recreativa dos computadores.
+
+Contas pessoais podem ser acessadas quando necessário para uma atividade acadêmica, mas o usuário deve realizar logout ao terminar.
+
+O usuário é responsável por sua própria segurança ao acessar contas pessoais em computadores compartilhados.
+
+19. IMPRESSÕES
+
+Cada aluno possui direito a 20 páginas impressas gratuitamente por mês.
+
+O limite é individual.
+
+As páginas são contabilizadas independentemente de serem impressas em preto e branco ou coloridas.
+
+Impressões frente e verso são contabilizadas de acordo com o número de folhas físicas utilizadas.
+
+Exemplo: uma folha impressa frente e verso corresponde a uma folha utilizada, mas contém duas páginas de conteúdo.
+
+Após atingir o limite mensal de 20 folhas, novas impressões gratuitas não estarão disponíveis até o início do mês seguinte.
+
+O limite é reiniciado no primeiro dia de cada mês.
+
+20. REGRAS PARA IMPRESSÃO
+
+As impressões devem estar relacionadas a atividades acadêmicas ou institucionais.
+
+É permitido imprimir:
+
+* trabalhos acadêmicos;
+* exercícios;
+* artigos;
+* materiais de estudo;
+* documentos institucionais;
+* apresentações necessárias para atividades acadêmicas.
+
+Não é recomendado utilizar o limite gratuito para documentos pessoais.
+
+O usuário deve conferir o documento antes de enviar para impressão.
+
+O usuário é responsável por verificar número de páginas, quantidade de cópias e configuração de impressão antes de confirmar o trabalho.
+
+21. ERRO DE IMPRESSÃO
+
+Caso uma impressão apresente erro causado pelo equipamento, o usuário deve informar imediatamente o problema ao monitor.
+
+Exemplos de problemas que devem ser comunicados:
+
+* folha presa;
+* impressão incompleta;
+* impressão ilegível;
+* documento não impresso;
+* impressão duplicada causada por falha do equipamento.
+
+O usuário não deve abrir a impressora ou tentar realizar manutenção interna.
+
+Quando a falha for confirmada como problema técnico do equipamento, o suporte poderá analisar a possibilidade de desconsiderar as folhas afetadas do limite do usuário.
+
+22. EQUIPAMENTOS DISPONÍVEIS
+
+O laboratório possui:
+
+* 32 computadores;
+* 32 monitores;
+* 32 teclados;
+* 32 mouses;
+* 4 headsets;
+* 2 webcams;
+* 1 projetor;
+* 1 impressora multifuncional;
+* 1 tela de projeção.
+
+Os equipamentos destinados ao uso compartilhado devem permanecer no laboratório após a utilização, salvo quando houver autorização formal para empréstimo.
+
+23. USO DE HEADSETS
+
+Os quatro headsets disponíveis podem ser utilizados durante atividades acadêmicas.
+
+O usuário deve retirar o headset com o monitor quando o procedimento de empréstimo estiver sendo aplicado.
+
+O equipamento deve ser devolvido ao término da atividade.
+
+Não é permitido levar o headset para fora do laboratório sem autorização.
+
+O usuário deve comunicar imediatamente qualquer dano encontrado.
+
+24. USO DE WEBCAMS
+
+As duas webcams disponíveis podem ser utilizadas para atividades acadêmicas que necessitem de videoconferência, gravação ou apresentação.
+
+A utilização deve ser solicitada ao monitor quando o equipamento estiver guardado.
+
+Após a utilização, a webcam deve ser devolvida.
+
+É proibido utilizar a webcam para gravações que violem a privacidade de outras pessoas.
+
+25. USO DO PROJETOR
+
+O laboratório possui um projetor disponível para aulas e apresentações.
+
+O projetor possui prioridade de utilização para aulas previamente agendadas.
+
+Solicitações para trabalhos individuais ou em grupo devem ser feitas ao responsável pelo laboratório.
+
+O usuário não deve alterar configurações avançadas do projetor.
+
+Ao terminar a utilização, o projetor deve ser desligado corretamente e permanecer em processo de resfriamento antes de ser desconectado da energia.
+
+26. EMPRÉSTIMO DE EQUIPAMENTOS
+
+Alguns equipamentos podem ser emprestados para atividades acadêmicas.
+
+O empréstimo depende da disponibilidade e autorização do laboratório.
+
+O usuário deve informar:
+
+* nome;
+* matrícula;
+* curso;
+* equipamento solicitado;
+* finalidade;
+* horário de retirada;
+* horário previsto para devolução.
+
+O equipamento deve ser devolvido nas mesmas condições em que foi retirado.
+
+O usuário é responsável pelo equipamento durante o período do empréstimo.
+
+27. DEVOLUÇÃO DE EQUIPAMENTOS
+
+A devolução deve ocorrer até o horário registrado no empréstimo.
+
+Em caso de atraso, o usuário deve comunicar o responsável.
+
+Equipamentos danificados devem ser devolvidos e o problema informado imediatamente.
+
+O usuário não deve tentar consertar o equipamento por conta própria.
+
+A administração poderá registrar ocorrências relacionadas a equipamentos danificados, perdidos ou não devolvidos.
+
+28. TECLADO E MOUSE
+
+Teclados e mouses são considerados equipamentos de uso compartilhado.
+
+O usuário deve mantê-los sobre a mesa e não deve desconectar seus cabos sem necessidade.
+
+Se um teclado ou mouse apresentar defeito, o usuário deve informar ao monitor.
+
+Não é permitido trocar equipamentos entre estações sem autorização.
+
+Caso seja necessário substituir um periférico, a troca deverá ser realizada pelo monitor ou equipe de suporte.
+
+29. COMPUTADOR NÃO LIGA
+
+Quando um computador não ligar, o usuário deve:
+
+1. Verificar se o equipamento está conectado à energia.
+2. Verificar se o botão de energia foi pressionado corretamente.
+3. Não abrir o gabinete.
+4. Não desconectar cabos internos.
+5. Informar o código da estação.
+6. Comunicar o problema ao monitor.
+7. Caso não haja monitor disponível, abrir um chamado no sistema de suporte.
+
+O usuário não deve tentar desmontar o computador.
+
+30. MONITOR SEM IMAGEM
+
+Quando o computador estiver ligado, mas o monitor não apresentar imagem, o usuário deve:
+
+1. Verificar se o monitor está ligado.
+2. Verificar se o cabo externo está aparentemente conectado.
+3. Não abrir o monitor.
+4. Não remover cabos internos.
+5. Informar o código da estação ao monitor ou suporte.
+
+Se o problema persistir, a estação deverá ser encaminhada para avaliação técnica.
+
+31. TECLADO OU MOUSE NÃO FUNCIONA
+
+Caso o teclado não funcione:
+
+1. Verifique se o problema ocorre apenas naquela estação.
+2. Não tente desmontar o teclado.
+3. Informe o problema ao monitor.
+4. Informe o número da estação.
+
+O mesmo procedimento deve ser utilizado para problemas com o mouse.
+
+O suporte poderá substituir o periférico quando necessário.
+
+32. COMPUTADOR TRAVADO
+
+Se o computador travar durante uma atividade, o usuário deve aguardar alguns instantes para verificar se o sistema volta a responder.
+
+Se o problema persistir, deve comunicar o monitor.
+
+Não é recomendado desligar o equipamento diretamente da tomada.
+
+O suporte poderá realizar procedimentos de reinicialização quando necessário.
+
+33. ABERTURA DE CHAMADOS
+
+Problemas técnicos que não puderem ser resolvidos pelo monitor devem ser registrados no sistema interno de suporte.
+
+Para abrir um chamado, o usuário deve informar:
+
+* nome;
+* matrícula;
+* código da estação;
+* descrição detalhada do problema;
+* data e horário aproximado da ocorrência.
+
+Uma descrição detalhada facilita o diagnóstico.
+
+Exemplo de descrição adequada:
+
+"Computador LAB-14 liga normalmente, mas o monitor permanece sem imagem após o sistema iniciar."
+
+Uma descrição inadequada seria:
+
+"Computador quebrado."
+
+Quanto mais detalhada for a descrição, mais informações estarão disponíveis para a equipe técnica.
+
+34. PRIORIDADE DOS CHAMADOS
+
+Os chamados são classificados conforme o impacto do problema.
+
+Problemas que impedem completamente a utilização de uma estação podem receber prioridade maior do que problemas que possuem solução alternativa.
+
+Problemas que afetam várias máquinas ou toda a rede possuem prioridade operacional elevada.
+
+O usuário não deve abrir vários chamados para o mesmo problema.
+
+Caso já exista um chamado relacionado à ocorrência, deve utilizar o chamado existente para fornecer novas informações.
+
+35. ACOMPANHAMENTO DO CHAMADO
+
+Após a abertura do chamado, o usuário deve guardar o número de protocolo.
+
+O acompanhamento deve ser realizado pelo sistema interno de suporte.
+
+Caso a equipe técnica solicite informações adicionais, o usuário deverá respondê-las pelo próprio chamado.
+
+O encerramento do chamado ocorre após a conclusão do atendimento técnico.
+
+Se o problema continuar após o encerramento, o usuário deverá abrir uma nova solicitação informando o protocolo anterior.
+
+36. SEGURANÇA DA INFORMAÇÃO
+
+Todos os usuários devem contribuir para a segurança das informações e dos equipamentos.
+
+É proibido:
+
+* tentar acessar contas de outras pessoas;
+* tentar descobrir senhas;
+* instalar programas maliciosos;
+* executar ferramentas destinadas a comprometer sistemas;
+* modificar configurações de segurança;
+* utilizar credenciais de terceiros;
+* acessar arquivos pessoais de outros usuários;
+* tentar obter acesso não autorizado à rede.
+
+Atividades acadêmicas relacionadas à segurança da informação devem ser realizadas somente quando autorizadas pelo professor e dentro do ambiente definido para a disciplina.
+
+37. SENHAS
+
+As senhas são pessoais e não devem ser compartilhadas.
+
+O laboratório nunca solicita que um aluno informe sua senha pessoal por meio de um chamado comum.
+
+Caso o usuário suspeite que sua senha tenha sido comprometida, deve alterar a senha e comunicar o suporte institucional.
+
+Não é permitido anotar senhas em locais visíveis próximos ao computador.
+
+38. PHISHING E MENSAGENS SUSPEITAS
+
+O usuário deve ter cuidado ao abrir links, anexos ou mensagens recebidas por e-mail.
+
+Mensagens que solicitem senhas, códigos de autenticação ou informações pessoais devem ser tratadas com cautela.
+
+Caso o usuário suspeite de uma mensagem maliciosa em um computador do laboratório, deve comunicar o suporte.
+
+Não é permitido executar arquivos suspeitos deliberadamente.
+
+39. MALWARE E COMPORTAMENTO SUSPEITO
+
+Se o computador apresentar comportamento incomum, como janelas inesperadas, lentidão repentina, mensagens desconhecidas ou alterações não solicitadas, o usuário deve interromper a atividade e comunicar o suporte.
+
+Não tente remover manualmente arquivos suspeitos.
+
+A equipe técnica será responsável pela análise.
+
+O equipamento poderá ser retirado temporariamente de utilização para investigação.
+
+40. PRIVACIDADE
+
+Os usuários devem respeitar a privacidade de outras pessoas.
+
+Não é permitido visualizar, copiar, modificar ou divulgar arquivos de terceiros sem autorização.
+
+Também não é permitido utilizar câmeras ou microfones para registrar pessoas sem autorização adequada.
+
+Atividades acadêmicas que envolvam gravação devem respeitar as regras institucionais aplicáveis.
+
+41. ORGANIZAÇÃO DO LABORATÓRIO
+
+Cada usuário deve manter sua estação organizada.
+
+Ao terminar a atividade, o usuário deve:
+
+* salvar seus arquivos;
+* sair das contas pessoais;
+* fechar os programas;
+* retirar seus pertences;
+* devolver equipamentos emprestados;
+* deixar teclado e mouse organizados;
+* informar problemas encontrados.
+
+Não é permitido deixar objetos pessoais sobre as mesas após o encerramento da atividade.
+
+42. ALIMENTAÇÃO E BEBIDAS
+
+Não é permitido consumir alimentos dentro do laboratório.
+
+Bebidas também não são permitidas próximas aos computadores ou demais equipamentos eletrônicos.
+
+A restrição tem como objetivo reduzir o risco de danos aos equipamentos.
+
+O usuário que encontrar líquido derramado próximo a equipamentos deve informar imediatamente o monitor.
+
+43. USO DE CELULARES
+
+O uso de celulares é permitido desde que não prejudique as atividades do laboratório.
+
+Durante aulas, avaliações e apresentações, o professor poderá determinar restrições específicas.
+
+O celular não deve ser utilizado para fotografar telas contendo informações pessoais ou acadêmicas de outros usuários sem autorização.
+
+44. VOLUME DE ÁUDIO
+
+O uso de áudio deve ser realizado preferencialmente com headset.
+
+O volume deve permanecer em nível que não prejudique os demais usuários.
+
+Durante aulas, o professor poderá solicitar que todos os equipamentos de áudio sejam desligados.
+
+45. TRABALHOS EM GRUPO
+
+Trabalhos em grupo podem ser realizados no laboratório quando houver disponibilidade.
+
+Cada computador pode ser utilizado por mais de um aluno quando a atividade exigir colaboração, desde que isso não prejudique outros usuários.
+
+Para grupos que necessitem de várias máquinas, recomenda-se realizar uma reserva com antecedência.
+
+O grupo deve informar a quantidade de computadores necessária e a finalidade da atividade.
+
+46. AULAS PRÁTICAS
+
+Aulas práticas possuem prioridade sobre utilização individual.
+
+O professor responsável deve realizar o agendamento do laboratório quando necessário.
+
+Durante uma aula, o professor poderá solicitar configurações específicas previamente autorizadas.
+
+Os alunos devem seguir as orientações do professor e do monitor.
+
+Problemas técnicos ocorridos durante a aula devem ser comunicados imediatamente.
+
+47. AVALIAÇÕES E PROVAS
+
+Durante avaliações realizadas no laboratório, os computadores poderão ser configurados especificamente para a atividade.
+
+Durante avaliações, os alunos não devem alterar configurações do computador.
+
+A utilização de dispositivos externos, internet ou outros recursos dependerá das regras estabelecidas pelo professor responsável pela avaliação.
+
+Problemas técnicos durante uma avaliação devem ser comunicados imediatamente ao professor ou monitor.
+
+48. MANUTENÇÃO PREVENTIVA
+
+A equipe técnica realiza procedimentos de manutenção preventiva periodicamente.
+
+Durante a manutenção, algumas estações podem ficar temporariamente indisponíveis.
+
+Os usuários devem respeitar os avisos de manutenção.
+
+Não é permitido utilizar equipamentos que estejam identificados como indisponíveis.
+
+49. MANUTENÇÃO CORRETIVA
+
+Quando um equipamento apresentar defeito, poderá ser retirado temporariamente de funcionamento.
+
+O equipamento poderá receber uma identificação de "Em manutenção".
+
+O usuário não deve remover essa identificação.
+
+Após o reparo, a equipe técnica realizará testes antes de devolver o equipamento para utilização.
+
+50. QUEDA DE ENERGIA
+
+Em caso de queda de energia, o usuário deve permanecer no local e seguir as orientações do responsável.
+
+Não é permitido tentar religar equipamentos imediatamente.
+
+Quando a energia for restabelecida, a equipe técnica deverá verificar os equipamentos antes da retomada normal das atividades, quando necessário.
+
+Arquivos não salvos podem ser perdidos em caso de interrupção de energia.
+
+51. EMERGÊNCIAS
+
+Em situações de emergência, todos os usuários devem seguir as orientações dos responsáveis pela instituição.
+
+Se houver necessidade de evacuação, os usuários devem interromper as atividades e deixar o laboratório de maneira organizada.
+
+Não é permitido retornar ao laboratório até que a liberação seja realizada pelos responsáveis.
+
+52. OBJETOS PERDIDOS
+
+Objetos encontrados no laboratório devem ser entregues ao monitor ou responsável.
+
+O usuário que perder um objeto deve informar:
+
+* descrição do objeto;
+* local aproximado onde foi perdido;
+* data;
+* horário aproximado.
+
+Objetos encontrados serão mantidos pelo laboratório por até 30 dias.
+
+Após esse período, será aplicado o procedimento institucional para objetos não reclamados.
+
+53. DANOS A EQUIPAMENTOS
+
+Qualquer dano percebido em um equipamento deve ser comunicado imediatamente.
+
+O usuário não deve tentar esconder ou reparar o dano.
+
+Quando possível, deve informar em qual estação o dano foi encontrado e descrever a situação.
+
+Danos causados intencionalmente ou por uso inadequado poderão ser encaminhados à administração da Instituição XYZ para análise.
+
+54. CONDUTA DOS USUÁRIOS
+
+Todos os usuários devem manter comportamento adequado no laboratório.
+
+Não são permitidos:
+
+* gritos;
+* comportamento que perturbe as aulas;
+* utilização inadequada dos equipamentos;
+* tentativa de acessar equipamentos de outros usuários;
+* remoção não autorizada de equipamentos;
+* desrespeito aos funcionários;
+* interferência deliberada nas atividades de outras pessoas.
+
+O laboratório é um ambiente acadêmico compartilhado e deve ser utilizado de maneira responsável.
+
+55. USO POR PROFESSORES E FUNCIONÁRIOS
+
+Professores e funcionários possuem acesso conforme suas atividades institucionais.
+
+Professores podem solicitar reservas para aulas, avaliações e atividades acadêmicas.
+
+Funcionários podem utilizar equipamentos quando houver necessidade relacionada às suas funções.
+
+O acesso administrativo aos equipamentos é restrito à equipe autorizada.
+
+56. SOLICITAÇÕES ESPECIAIS
+
+Solicitações que não estejam previstas neste manual devem ser encaminhadas ao responsável pelo laboratório.
+
+A autorização dependerá da natureza da solicitação, disponibilidade de recursos e requisitos de segurança.
+
+O fato de um procedimento não estar expressamente proibido neste manual não significa que esteja automaticamente autorizado.
+
+57. CONTATOS E CANAIS DE ATENDIMENTO
+
+O primeiro ponto de contato para problemas ocorridos durante a utilização do laboratório é o monitor.
+
+Quando o monitor não estiver disponível, o usuário deve utilizar o sistema interno de suporte.
+
+Solicitações administrativas relacionadas a reservas devem ser encaminhadas ao responsável pelo laboratório.
+
+Problemas técnicos devem ser registrados no sistema de suporte sempre que não puderem ser resolvidos no atendimento inicial.
+
+58. PROCEDIMENTO RESUMIDO PARA PROBLEMAS TÉCNICOS
+
+Quando ocorrer um problema:
+
+1. Identifique a estação.
+
+2. Observe e descreva o problema.
+
+3. Não tente desmontar ou reparar o equipamento.
+
+4. Informe o monitor.
+
+5. Caso necessário, abra um chamado.
+
+6. Informe o número da estação.
+
+7. Descreva detalhadamente o problema.
+
+8. Guarde o número do protocolo.
+
+9. Acompanhe o chamado pelo sistema.
+
+10. PROCEDIMENTO RESUMIDO PARA RESERVAS
+
+Para reservar uma estação:
+
+1. Verifique a disponibilidade.
+
+2. Solicite a reserva com pelo menos 24 horas de antecedência.
+
+3. Informe seus dados acadêmicos.
+
+4. Informe data e horário.
+
+5. Informe a finalidade.
+
+6. Aguarde a confirmação.
+
+7. Compareça no horário.
+
+8. Caso não possa comparecer, cancele a reserva com antecedência.
+
+9. PROCEDIMENTO RESUMIDO PARA INSTALAÇÃO DE SOFTWARE
+
+Para solicitar um programa:
+
+1. Verifique se o programa é necessário para uma atividade acadêmica.
+
+2. Identifique o nome e a versão desejada.
+
+3. Informe a finalidade.
+
+4. Informe a disciplina ou projeto.
+
+5. Informe o professor responsável.
+
+6. Envie a solicitação ao suporte.
+
+7. Aguarde a avaliação técnica.
+
+8. Não tente instalar o software por conta própria.
+
+9. PROCEDIMENTO RESUMIDO PARA IMPRESSÕES
+
+Para utilizar o serviço de impressão:
+
+1. Verifique o documento.
+2. Confira a quantidade de páginas.
+3. Confira se a impressão será colorida ou preto e branco.
+4. Confira a quantidade de cópias.
+5. Envie o documento para impressão.
+6. Caso ocorra uma falha técnica, informe o monitor.
+7. Verifique seu limite mensal.
+
+Cada aluno possui 20 folhas gratuitas por mês.
+
+62. PERGUNTAS FREQUENTES
+
+Pergunta: Posso instalar um jogo no computador?
+
+Resposta: Não. Jogos não podem ser instalados nos computadores do laboratório.
+
+Pergunta: Posso instalar um emulador?
+
+Resposta: Não. Emuladores não podem ser instalados diretamente pelos usuários.
+
+Pergunta: Preciso de um programa para uma disciplina. O que faço?
+
+Resposta: Solicite a instalação ao suporte de TI, informando o nome, versão, finalidade, disciplina ou projeto e professor responsável.
+
+Pergunta: Quantas páginas posso imprimir gratuitamente?
+
+Resposta: Cada aluno possui direito a 20 folhas impressas gratuitamente por mês.
+
+Pergunta: Impressão colorida conta no limite?
+
+Resposta: Sim. Impressões coloridas também são contabilizadas no limite mensal.
+
+Pergunta: O limite de impressão acumula para o mês seguinte?
+
+Resposta: Não. O limite é reiniciado no primeiro dia de cada mês.
+
+Pergunta: Posso reservar um computador para amanhã?
+
+Resposta: Sim, desde que a solicitação seja realizada com pelo menos 24 horas de antecedência e exista disponibilidade.
+
+Pergunta: Quanto tempo dura uma reserva?
+
+Resposta: Cada reserva possui duração máxima de 2 horas.
+
+Pergunta: Quantas reservas posso ter?
+
+Resposta: Um usuário pode possuir no máximo duas reservas futuras simultaneamente.
+
+Pergunta: Cheguei atrasado para minha reserva. O que acontece?
+
+Resposta: Após 15 minutos do início da reserva, a estação poderá ser disponibilizada para outro usuário.
+
+Pergunta: Posso reservar o laboratório para uma aula?
+
+Resposta: Aulas práticas devem ser agendadas pelo professor responsável.
+
+Pergunta: O computador não liga. O que faço?
+
+Resposta: Verifique a conexão de energia e comunique o problema ao monitor. Não abra o gabinete.
+
+Pergunta: O monitor está sem imagem. O que faço?
+
+Resposta: Verifique se o monitor está ligado e informe o problema ao monitor ou suporte, indicando o código da estação.
+
+Pergunta: Meu teclado não funciona. Posso trocar com outro computador?
+
+Resposta: Não é recomendado trocar equipamentos entre estações sem autorização. Informe o problema ao monitor.
+
+Pergunta: Posso usar meu pendrive?
+
+Resposta: Sim, para atividades acadêmicas, desde que o dispositivo seja utilizado de maneira segura.
+
+Pergunta: Posso usar VPN?
+
+Resposta: O uso de VPN pessoal nos computadores do laboratório não é permitido sem autorização do suporte.
+
+Pergunta: Posso comer no laboratório?
+
+Resposta: Não. Alimentos não são permitidos no laboratório.
+
+Pergunta: Posso beber água perto do computador?
+
+Resposta: Bebidas não são permitidas próximas aos equipamentos eletrônicos.
+
+Pergunta: Posso usar fone de ouvido?
+
+Resposta: O laboratório possui quatro headsets disponíveis para utilização acadêmica.
+
+Pergunta: Posso levar o headset para casa?
+
+Resposta: Não sem autorização. Os equipamentos compartilhados devem permanecer no laboratório, salvo quando houver empréstimo autorizado.
+
+Pergunta: Posso deixar meus arquivos na área de trabalho?
+
+Resposta: Não é recomendado. Arquivos locais podem ser removidos durante manutenção.
+
+Pergunta: Posso usar a conta de outro aluno?
+
+Resposta: Não. Cada usuário deve utilizar sua própria conta.
+
+Pergunta: Posso compartilhar minha senha?
+
+Resposta: Não. As senhas são pessoais e não devem ser compartilhadas.
+
+Pergunta: Como abro um chamado?
+
+Resposta: Quando o problema não puder ser resolvido pelo monitor, abra um chamado no sistema interno de suporte informando seus dados, código da estação e descrição detalhada do problema.
+
+Pergunta: O que devo informar em um chamado?
+
+Resposta: Nome, matrícula, código da estação, descrição detalhada do problema, data e horário aproximado da ocorrência.
+
+Pergunta: Preciso guardar o protocolo?
+
+Resposta: Sim. O número do protocolo deve ser guardado para acompanhamento do atendimento.
+
+Pergunta: Posso tentar consertar o computador?
+
+Resposta: Não. O usuário não deve abrir ou tentar reparar os equipamentos.
+
+Pergunta: Posso usar o laboratório no domingo?
+
+Resposta: Não. O laboratório permanece fechado aos domingos.
+
+Pergunta: Qual é o horário de sábado?
+
+Resposta: Aos sábados, o laboratório funciona das 8h às 12h.
+
+Pergunta: Onde fica o laboratório?
+
+Resposta: O Laboratório de Informática Acadêmico fica no Bloco B, segundo andar, sala B-204.
+
+Pergunta: Quantos computadores existem no laboratório?
+
+Resposta: O laboratório possui 32 computadores, identificados de LAB-01 a LAB-32.
+
+Pergunta: Posso usar o laboratório fora do horário?
+
+Resposta: O acesso fora do horário normal depende de autorização do responsável pelo laboratório.
+
+Pergunta: Encontrei um celular no laboratório. O que faço?
+
+Resposta: Entregue o objeto ao monitor ou responsável pelo laboratório.
+
+Pergunta: Por quanto tempo objetos perdidos ficam guardados?
+
+Resposta: Objetos encontrados são mantidos pelo laboratório por até 30 dias.
+
+Pergunta: Posso conectar um roteador?
+
+Resposta: Não é permitido conectar roteadores, repetidores ou equipamentos destinados a criar redes paralelas sem autorização.
+
+Pergunta: Posso assistir vídeos?
+
+Resposta: Streaming é permitido quando estiver relacionado a atividades acadêmicas. Durante períodos de grande utilização, conteúdos de entretenimento devem ser evitados.
+
+Pergunta: Posso usar redes sociais?
+
+Resposta: O acesso a redes sociais não relacionadas à atividade acadêmica deve ser limitado durante o uso do laboratório.
+
+Pergunta: O que faço se cair a energia?
+
+Resposta: Permaneça no local e siga as orientações do responsável. Não tente religar os equipamentos imediatamente.
+
+63. INFORMAÇÕES NÃO DISPONIBILIZADAS NESTE MANUAL
+
+O laboratório não disponibiliza neste documento informações pessoais ou confidenciais de funcionários, senhas, credenciais de acesso, dados pessoais de alunos, informações bancárias, chaves de API ou outros dados sensíveis.
+
+Quando uma pergunta solicitar uma informação que não esteja presente neste manual, o assistente do laboratório deve informar que a informação não está disponível no contexto fornecido.
+
+O assistente não deve criar, estimar ou inventar informações para preencher lacunas do manual.
+
+Exemplos de informações que não estão disponíveis neste manual:
+
+* telefone pessoal do responsável;
+* senha do Wi-Fi;
+* senha de computadores;
+* endereço de e-mail pessoal de funcionários;
+* dados pessoais de alunos;
+* número de telefone pessoal de monitores;
+* credenciais administrativas;
+* senhas do sistema de suporte;
+* códigos de acesso;
+* informações financeiras da instituição.
+
+64. REGRA FINAL PARA ATENDIMENTO AUTOMATIZADO
+
+O conteúdo deste manual constitui a única fonte de conhecimento interno disponibilizada ao assistente virtual do Laboratório de Informática da Instituição XYZ.
+
+O assistente deve utilizar as informações deste documento para responder às perguntas dos usuários.
+
+Quando uma resposta estiver claramente presente no manual, o assistente deve respondê-la de maneira objetiva.
+
+Quando a pergunta puder ser respondida combinando informações presentes no manual, o assistente poderá relacionar essas informações, desde que não crie fatos novos.
+
+Quando a informação solicitada não estiver presente no manual, o assistente deverá informar que não possui essa informação no contexto fornecido.
+
+O assistente não deve inventar telefones, nomes, horários, senhas, valores, procedimentos ou qualquer outra informação que não esteja presente neste documento.
+
+Este manual é um documento fictício elaborado exclusivamente para fins acadêmicos e demonstração do chatbot.
